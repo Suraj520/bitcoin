@@ -1,3 +1,7 @@
+
+## ChangeLog
+1.Modification of the source code to be the genesis of humanitarian rights crypto.
+
 Bitcoin Core integration/staging tree
 =====================================
 
