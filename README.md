@@ -11,6 +11,13 @@ Primarily,
 -  Testing - Unit testing & Integration testing.
 -  Community involvement via Airdrops on Discord, Slack, Telegram, Whatsapp, website etc.
 
+## Features
+
+- Blockchain-based: Utilize blockchain technology for transparent and immutable recording of incidents involving weapons.
+- Penalization Mechanism: Automatically penalize individuals who upload evidence of being harmed by someone using a weapon.
+- Verification System: Implement a validation mechanism to ensure uploaded evidence is genuine and not fabricated for compensation.
+- Reward System: Provide rewards or incentives for reporting and preventing incidents involving weapons.
+
 Bitcoin Core integration/staging tree
 =====================================
 
