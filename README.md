@@ -1,6 +1,15 @@
 
-## ChangeLog
+## To Do
 1.Modification of the source code to be the genesis of humanitarian rights crypto.
+Primarily,
+- Adding victim tracking using media(image/video) uploaded.
+-  Reward mechanism - Implementing a reward mechanism to calculate and distribute rewards based on impact.
+-  Consensus mechanism - Implementing PoW(Proof of work) or Proof of stake(PoS)
+-  Tokenomics Adjustments - Defining total token supply, distribution schedule and how rewards will be funded.
+-  Smart contract integration(optional) - Using ethereum etc. as a blockchain platform for smart contract, using them to automate the reward distribution process based on predefined criteria. Smart contracts can also help ensure transparency and fairness in reward distribution.
+-  Security enhancements - To prevent it from potential attacks or vulnerabilities introduced by the modifications.
+-  Testing - Unit testing & Integration testing.
+-  Community involvement via Airdrops on Discord, Slack, Telegram, Whatsapp, website etc.
 
 Bitcoin Core integration/staging tree
 =====================================
