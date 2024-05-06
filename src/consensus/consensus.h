@@ -15,4 +15,15 @@ static const int64_t WEAPON_HANDLER_PENALTY = 101 * COIN;
 // Define a new consensus flag for evidence transactions
 static const int EVIDENCE_TRANSACTION = (1 << 30);
 
+// Define a new transaction type for evidence uploads
+static const int MSG_TYPE_EVIDENCE = 5;
+
+// Define a structure for evidence transactions
+struct EvidenceTransaction {
+    std::string uploaderAddress; // Address of the uploader
+    std::string evidenceHash;    // Hash of the evidence data
+    int timestamp;               // Timestamp of the upload
+};
+
+
 #endif // BITCOIN_CONSENSUS_CONSENSUS_H
